@@ -1,0 +1,13 @@
+backend/
+|-- server.js
+|-- routes/
+|   |-- inventory.js
+|   |-- auth.js
+|-- models/
+|   |-- User.js
+|   |-- Product.js
+|-- config/
+|   |-- config.json
+|-- middleware/
+|   |-- authMiddleware.js
+|-- package.json
